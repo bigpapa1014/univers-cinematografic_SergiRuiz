@@ -15,3 +15,5 @@
 - Thanos
 - Terra i espai
 - Combat per a les gemes de la infinitat.
+
+## Post Credits: Apareix nick furia
